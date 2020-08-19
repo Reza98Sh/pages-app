@@ -25,7 +25,7 @@ SECRET_KEY = '1u0rip4)4=q_m&x=w6ab+44&zfj__-u4^=&#w&h9$nmpav_(!-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
